@@ -1,2 +1,2 @@
-web: npm run start:heroku
+web: gunicorn my-first-blog:app
 
