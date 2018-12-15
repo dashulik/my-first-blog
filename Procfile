@@ -1,1 +1,1 @@
-web: gunicorn dashulik.app
+web: gunicorn my-first-blog.app
