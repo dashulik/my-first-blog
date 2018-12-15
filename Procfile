@@ -1,1 +1,1 @@
-web: gunicorn pykurs.wsgi
+web: gunicorn my-first-blog.wsgi
