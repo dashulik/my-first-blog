@@ -1,2 +1,2 @@
-web: index.html
+web: npm run start:heroku
 
